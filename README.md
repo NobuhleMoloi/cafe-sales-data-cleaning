@@ -1,5 +1,7 @@
 # Cafe Sales Data Cleaning (SQL)
 
+**Author:** Nobuhle Moloi
+
 ## Overview
 This project focuses on cleaning and standardising a cafe sales dataset using SQL. The goal is to transform raw, inconsistent data into a structured and analysis-ready format using rule-based transformations.
 
